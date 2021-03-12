@@ -1,6 +1,6 @@
 # Format-Converter
 
-This WaNo uses `ASE` technology to convert a geometry file from x to y format. Very often, the `xyz` file does not contain information about the unit cell. However, this WaNo solves this problem by creating a cubic unit cell with a lattice parameter `25%` larger than the maximum distance between two atomic positions of the structure. In other words, it allows us to create a unit cell to file in `xyz` format.
+This WaNo uses `ASE` technology to convert a geometry file from `x` to `y` format. Very often, the `xyz` file does not contain information about the unit cell. However, this WaNo solves this problem by creating a cubic unit cell with a lattice parameter `25%` larger than the maximum distance between two atomic positions of the structure. In other words, it allows us to create a unit cell to file in `xyz` format.
 
 **Fig 1** shows the description of the inputs and outputs fields. Currently, we support all possible combinations of the formats: `xyz`, `cif`, `pdb`, and `vasp`, which covers the geometric input files of the most widely used electronic structure codes.
 
