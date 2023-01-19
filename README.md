@@ -1,3 +1,8 @@
+![Format-Converter WaNo logo](https://raw.githubusercontent.com/KIT-Workflows/Format-Converter/main/Format-Converter.png)
+
+When publishing results obtained with DFT-VASP **WaNo**, please consider citing it.
+
+
 # Format-Converter
 
 Utilizing ASE technology, this **WaNo** joyfully converts a geometry file easily from format **A** to **B**. And, even better, it cleverly solves the problem of the missing unit cell information in `xyz` files by creating a cubic unit cell with a lattice parameter 25% larger than the maximum distance between atoms, making it a breeze to add a unit cell to `xyz` files!
