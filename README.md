@@ -1,4 +1,4 @@
-![Format-Converter WaNo logo](https://raw.githubusercontent.com/KIT-Workflows/Format-Converter/main/format_converter_logo.png)
+![Format-Converter WaNo logo](format_converter_logo.png)
 
 When publishing results obtained with Format-Converter **WaNo**, please consider citing it.
 
