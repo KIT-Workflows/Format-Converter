@@ -1,6 +1,6 @@
 ![Format-Converter WaNo logo](https://raw.githubusercontent.com/KIT-Workflows/Format-Converter/main/Format-Converter.png)
 
-When publishing results obtained with DFT-VASP **WaNo**, please consider citing it.
+When publishing results obtained with Format-Converter **WaNo**, please consider citing it.
 
 
 # Format-Converter
