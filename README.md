@@ -4,7 +4,7 @@ This WaNo uses `ASE` technology to convert a geometry file from `x` to `y` forma
 
 **Fig 1** shows the description of the inputs and outputs fields. Currently, we support all possible combinations of the formats: `xyz`, `cif`, `pdb`, and `vasp`, which covers the geometric input files of the most widely used electronic structure codes.
 
-![Semantic description of image](Wano-Format_Converter.png)
+![Semantic description of image](1Wano-Format_Converter.png)
 
 **Fig 1** This WaNo converts geometric files format. In the figure, we describe the functionalities of the fields. All possible combinations between the `Input-Format` and `Output-Format` options are allowed.
 
